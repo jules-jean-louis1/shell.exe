@@ -1,0 +1,12 @@
+jules    tty3         tty3             Fri Sep 30 15:14    gone - no logout
+jules    tty2         tty2             Thu Sep 29 12:46 - 15:14 (1+02:27)
+reboot   system boot  5.10.0-18-amd64  Thu Sep 29 12:46   still running
+jules    tty2         tty2             Wed Sep 28 19:54 - down   (16:50)
+reboot   system boot  5.10.0-18-amd64  Wed Sep 28 19:54 - 12:45  (16:50)
+jules    pts/2        192.168.80.1     Tue Sep 27 16:05 - 16:24  (00:19)
+jules    tty2         tty2             Fri Sep 23 13:10 - crash (5+06:44)
+reboot   system boot  5.10.0-18-amd64  Fri Sep 23 13:09 - 12:45 (5+23:35)
+jules    tty2         tty2             Fri Sep 23 11:58 - down   (00:00)
+reboot   system boot  5.10.0-18-amd64  Fri Sep 23 11:57 - 11:58  (00:01)
+
+wtmp begins Fri Sep 23 11:57:53 2022
